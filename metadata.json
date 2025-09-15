@@ -1,0 +1,7 @@
+{
+  "name": "AI Toolbox",
+  "description": "A versatile AI application powered by the Gemini API. It features a streaming chat, image generation, image editing, web-grounded search, and structured JSON data generation, all within a sleek, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
